@@ -3,12 +3,14 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
+- ⚡ I regularly publish videos on [https://www.tiktok.com/@abdelrahman_elhabian?is_from_webapp=1&sender_device=pc](https://www.tiktok.com/@abdelrahman_elhabian?is_from_webapp=1&sender_device=pc)
+
 - 📫 How to reach me **hippo5.elhabian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahmanelhabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmanelhabian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/atomic code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeCraft_by_ABDO" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/atomic-code_byabdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atomic-code_byabdo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/elhabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="elhabian" height="30" width="40" /></a>
 </p>
 
