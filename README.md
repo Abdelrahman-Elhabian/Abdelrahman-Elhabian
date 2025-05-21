@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- ⚡ I regularly publish videos on: [https://www.tiktok.com/@abdelrahman_elhabian?is_from_webapp=1&sender_device=pc](https://www.tiktok.com/@abdelrahman_elhabian?is_from_webapp=1&sender_device=pc)
+- ⚡ I regularly publish videos on: [https://tinyurl.com/bdza8xfj](https://tinyurl.com/bdza8xfj)
 
 - 📫 How to reach me: **hippo5.elhabian@gmail.com**
 
