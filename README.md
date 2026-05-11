@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | Lifelong Learner. Currently exploring the intersection of AI productivity and scalable web design.
+Frontend Developer & Lifelong Learner. Currently exploring the intersection of AI productivity and scalable web design.
 
 
 ## 🌐 Socials:
